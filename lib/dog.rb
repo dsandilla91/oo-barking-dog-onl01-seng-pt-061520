@@ -7,4 +7,8 @@ end
 def name
   pup_name
 end 
+
+def bark 
+   puts "Woof!" 
+ end
 end 
