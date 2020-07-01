@@ -4,6 +4,6 @@ class Dog
     pup_name = dog_name
 end 
 
-def pup_name
-  dog_name
+def name
+  pup_name
 end 
